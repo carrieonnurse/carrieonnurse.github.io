@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:  sans-serif;
+    color: white;
+    background-color: #333333;
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
