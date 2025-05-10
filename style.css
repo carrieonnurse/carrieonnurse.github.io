@@ -3,9 +3,8 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    font-family: "Times New Roman", serif;
-    font-size: 1rem;
-    line-height: 2rem;
+    font-family: "Arial", sans-serif;
+    font-size: 0.75rem;
     color: white;
     background-color: #333333;
     text-align: left;
@@ -40,5 +39,9 @@ a:hover {
 }
 
 .article {
+    font-style: italic;
+}
+
+.publisher-italic {
     font-style: italic;
 }
